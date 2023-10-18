@@ -37,11 +37,11 @@ Para validar y probar la eficacia del enfoque propuesto, se utilizarán archivos
 
 ## Requisitos
 
-- Visual Studio con soporte para C++/CLR
+- Visual Studio con soporte para C++/CLR 2019
 
 ## Instalación
 
-1. Clonar el repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+1. Clonar el repositorio: `git clone https://github.com/alfredogarciaw/CursoCEARUNSJ`
 2. Abrir el proyecto en Visual Studio C++ 2019.
 3. Agregar extension de visual studio 2019 C++/CLR windows forms
 
